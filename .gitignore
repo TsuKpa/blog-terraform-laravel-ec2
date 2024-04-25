@@ -1,0 +1,10 @@
+# Ignore IDE specific files
+.idea/
+vscode/
+
+# Ignore sensitive files
+.env  # Replace with your environment file name if different
+aws_credentials  # Replace with your AWS credentials file name if different
+
+/vendor
+.DS_Store
