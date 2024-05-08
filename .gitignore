@@ -8,3 +8,4 @@ aws_credentials  # Replace with your AWS credentials file name if different
 
 /vendor
 .DS_Store
+*.pem
