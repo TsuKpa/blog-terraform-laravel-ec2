@@ -17,6 +17,10 @@
 # Ignore generated files
 .terraform/generated/
 
+# Ignore variables files
+*.tfvars
+*.tfvars.json
+
 # Ignore IDE specific files
 .idea/
 vscode/
